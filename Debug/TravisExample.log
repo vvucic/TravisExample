@@ -1,5 +1,0 @@
-﻿  stdafx.cpp
-  TravisExample.cpp
-c:\users\a503737\documents\visual studio 2015\projects\travisexample\travisexample\travisexample.cpp(4): warning C4627: '#include <stdlib.h>': skipped when looking for precompiled header use
-  c:\users\a503737\documents\visual studio 2015\projects\travisexample\travisexample\travisexample.cpp(4): note: Add directive to 'stdafx.h' or rebuild precompiled header
-  TravisExample.vcxproj -> c:\users\a503737\documents\visual studio 2015\Projects\TravisExample\Debug\TravisExample.exe
