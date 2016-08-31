@@ -8,11 +8,9 @@ int main()
 {
 	
 	int x, y, z;
-	// Ulazni podaci
-	//std::cout << "Unesite x i y" << std::endl;
-	//std::cin >> x >> y;
-	z = 10;
-	//Ispis rezultata
+	std::cout << "Unesite x i y" << std::endl;
+	std::cin >> x >> y;
+	z = x + y;
 	std::cout << "Zbir je : " << z << std::endl;
     return 0;
 }
